@@ -1,0 +1,3 @@
+This code is for a game where a rocket navigates through pipes, using the NEAT AI algorithm to train multiple rockets. The Bird class handles movement and animations. The Pipe class generates pipes the rockets must avoid. The Base class controls the moving ground. The draw_window function renders the game. The main function initializes the game, runs the training, and updates each rocket’s movements. Finally, the run function sets up the NEAT algorithm configuration and starts the training process.
+
+Project was highly inspired by Tech with tim - https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2
